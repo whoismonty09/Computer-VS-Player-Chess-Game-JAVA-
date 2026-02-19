@@ -63,7 +63,7 @@ The player selects and moves pieces using buttons instead of typing coordinates,
 
 ## 👨‍💻 Author
 
-Developed as a Java GUI project to practice Swing, OOP, and game logic.
+Developed by Monty
 
 ---
 
